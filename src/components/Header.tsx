@@ -18,7 +18,7 @@ const Header: React.FC = () => {
                     sx={{ flexGrow: 1, cursor: 'pointer' }}
                     onClick={() => navigate('/')}
                 >
-                    T-Shirt Shop
+                    EasyShop
                 </Typography>
                 <Box>
                     <IconButton 
